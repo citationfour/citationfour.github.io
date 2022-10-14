@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@700&family=Raleway:wght@300&display=swap');
+html{
+    background-color: rgb(145, 85, 0);
+    min-height: 2200px;
+}
+
+h1{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 50px;
+    color: rgb(230, 230, 230);
+    text-align: left;
+    position: absolute;
+    top: 40px;
+}
+
+.footer{
+    position: absolute;
+    left: 170px;
+    top: 2100px;
+    height: 50px;
+    width: 1050px;
+    border: 3px solid rgb(215, 215, 215);
+    border-radius: 50px;
+    font-family: 'Gemunu Libre', sans-serif;
+    text-align: center;
+}
+
+.footer-text{
+    margin-top: 0px;
+    position: absolute;
+    top: 7px;
+    left: 300px;
+    vertical-align: middle;
+}
+
+.youtube-link{
+    position: absolute;
+    bottom: 6px;
+    width: 52px;
+    height: 36px;
+    left: 591px;
+}
+
+.twitter-follow-button{
+    position: absolute;
+    bottom: 4px;
+    width: 52px;
+    height: 36px;
+    left: 655px;
+}
+
+.pic8{
+    position: absolute;
+    top: 150px;
+    left: 45px;
+    height: 480px;
+    width: 640px;
+}
+
+.pic14{
+    position: absolute;
+    top: 150px;
+    right: 45px;
+    height: 640px;
+    width: 480px;
+}
+
+.pic3{
+    position: absolute;
+    top: 1440px;
+    right: 45px;
+    height: 640px;
+    width: 480px;
+}
+
+.pic13{
+    position: absolute;
+    top: 880px;
+    right: 45px;
+    height: 480px;
+    width: 640px;
+}
+
+.pic22{
+    position: absolute;
+    top: 730px;
+    left: 45px;
+    height: 640px;
+    width: 480px;
+}
+
+.pic5{
+    position: absolute;
+    top: 1480px;
+    left: 45px;
+    height: 480px;
+    width: 640px;
+}
+
+/*navbar*/
+.navbar{
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 6px solid whitesmoke;
+    border-radius: 100px;
+    height: 45px;
+    width: 1200px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+/*navbar links*/
+a.main-link:link, a.main-link:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a.main-link:hover{
+    font-size: 32px;
+    color: grey;
+}
+
+a.photography-link:link, a.photography-link:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a.photography-link:hover{
+    font-size: 32px;
+    color: grey;
+}
+
+a.gaming-link:link, a.gaming-link:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a.gaming-link:hover{
+    font-size: 32px;
+    color: grey;
+}
+
+a.programming-link:link, a.programming-link:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a.programming-link:hover{
+    font-size: 32px;
+    color: grey;
+}
+
+a.books-link:link, a.books-link:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a.books-link:hover{
+    font-size: 32px;
+    color: grey;
+}
+
+/*mavbar texts*/
+.main-text{
+    margin-top: 0px;
+    position: absolute;
+    left: 20px;
+    top: 4px;
+    font-size: 30px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+.photography-text{
+    margin-top: 0px;
+    position: absolute;
+    left: 155px;
+    top: 4px;
+    font-size: 30px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+.gaming-text{
+    margin-top: 0px;
+    position: absolute;
+    left: 320px;
+    top: 4px;
+    font-size: 30px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+.programming-text{
+    margin-top: 0px;
+    position: absolute;
+    left: 425px;
+    top: 4px;
+    font-size: 30px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+.books-text{
+    margin-top: 0px;
+    position: absolute;
+    left: 590px;
+    top: 4px;
+    font-size: 30px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+/*navbar end*/
