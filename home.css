@@ -70,9 +70,17 @@ html{
     text-decoration: underline pink;
 }
 
-.holybrook{
-    width: 1310px;
-    height: 1040px;
+
+
+
+
+.heart{
+    width: 100%;
+    padding-bottom: 80px;
+}
+
+.tree{
+    width: 100%;
 }
 
 .sky_timelapse{
@@ -80,13 +88,24 @@ html{
     height: 1040px;
 }
 
-.heart{
+.linearpark{
     width: 100%;
-    padding-bottom: 80px;
+}
+
+.holybrook{
+    width: 1310px;
+    height: 1040px;
 }
 
 .train{
     width: 100%;
+}
+
+.sky{
+    width: 100%;
+    padding: 80px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .index-text{
