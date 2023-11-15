@@ -70,42 +70,15 @@ html{
     text-decoration: underline pink;
 }
 
-
-
-
-
-.heart{
-    width: 100%;
-    padding-bottom: 80px;
-}
-
-.tree{
-    width: 100%;
-}
-
-.sky_timelapse{
-    width: 1310px;
-    height: 1040px;
-}
-
+/*No padding for first*/
 .linearpark{
     width: 100%;
 }
 
-.holybrook{
-    width: 1310px;
-    height: 1040px;
-}
-
-.train{
+/*Collective pasting*/
+.train, .rocks, .copcar{
+    padding-top: 20px;
     width: 100%;
-}
-
-.sky{
-    width: 100%;
-    padding: 80px;
-    padding-left: 0px;
-    padding-right: 0px;
 }
 
 .index-text{
@@ -138,6 +111,8 @@ html{
     float: left;
 }
 
+/*footers*/
+
 .dm{
     position: fixed;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -152,7 +127,7 @@ html{
     bottom: 0px;
 }
 
-.order{
+.fav{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     position: relative;
