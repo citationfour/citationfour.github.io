@@ -70,15 +70,28 @@ html{
     text-decoration: underline pink;
 }
 
-/*No padding for first*/
+/*photos here*/
 .linearpark{
-    width: 100%;
+    width: 38%;
 }
 
-/*Collective pasting*/
-.train, .rocks, .copcar, .taycan{
-    padding-top: 20px;
-    width: 100%;
+.train {
+    width: 60%;
+    margin-left: 12px;
+    margin-bottom: 185px; 
+}
+
+.rocks{
+    width: 38%;
+    position: relative;
+    bottom: 175px;
+}
+
+.taycan{
+    width: 60%;
+    margin-left: 12px;
+    position: relative;
+    bottom: 175px;
 }
 
 .index-text{

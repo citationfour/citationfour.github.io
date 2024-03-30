@@ -1,0 +1,127 @@
+html{
+    background-color: #228B22;
+}
+
+body{
+    max-height: 100px;
+}
+
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    position: absolute;
+    top: 40px;
+    left: 404px;
+    color: rgba(220, 78, 38, 0.778);
+}
+
+.banner{
+    width: 100%;
+    margin: 0px;
+}
+
+.swinleyphotos{
+    width: 30%;
+    position: relative;
+}
+
+.swinley4, .swinley5{
+    position: relative;
+    bottom: px;
+    width: 30%;
+}
+
+.swinley6{
+    position: relative;
+    bottom: 320px;
+    width: 30%;
+}
+
+.swinley9{
+    position: relative;
+    bottom: 300px;
+    width: 30%;
+}
+
+.swinley12{
+    position: relative;
+    bottom: 618px;
+    width: 30%;
+}
+
+.swinley13{
+    position: relative;
+    bottom: 618px;
+    width: 30%;
+}
+
+.swinley11{
+    position: relative;
+    bottom: 320px;
+    width: 30%;
+}
+
+.swinley14{
+    position: relative;
+    bottom: 640px;
+    width: 30%;
+}
+
+.swinley25{
+    position: relative;
+    bottom: 619px;
+    width: 30%;
+}
+
+.swinley17{
+    position: relative;
+    bottom: 1173px;
+    width: 30%;
+}
+
+.swinley28{
+    position: relative;
+    bottom: 1173px;
+    width: 30%;
+}
+
+.swinley16, .swinley19, .swinley22, .swinley26, .swinley18, .swinley21{
+    position: relative;
+    bottom: 342px;
+    width: 30%;
+}
+
+.swinley20, .swinley24, .swinley27{
+    position: relative;
+    bottom: 620px;
+    width: 30%;
+}
+
+/*footers*/
+
+footer{
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 37px;
+    bottom: 24px;
+    color: white;
+    left: 12px;
+}
+
+.dm{
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    bottom: 13px;
+}
+
+.copyright{
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    bottom: 0px;
+}

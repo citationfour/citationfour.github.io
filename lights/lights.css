@@ -29,11 +29,49 @@ h4{
 }
 
 .lights1, .lights2, .lights3, .lights4, .lights5, .lights6, .lights7, .lights8{
-    width: 100%;
+    width: 30%;
     border: 2px solid white;
     margin: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+
+}
+
+.lights1, .lights3{
+    margin-bottom: 350px;
+}
+
+.lights1{
+    margin-left: 60px;
+}
+
+.lights5{
+    display: inline;
+    margin-right: auto;
+    position: relative;
+    bottom: 700px;
+    left: 60px;
+}
+
+.lights6{
+    left: 61px;
+    bottom: 359px;
+}
+
+.lights4{
+    right: 357px;
+    bottom: 78px;
+}
+
+.lights7{
+    left: 476px;
+    bottom: 659px;
+}
+
+.lights8{
+    left: 477px;
+    bottom: 720px;
 }
 
 /*footers*/

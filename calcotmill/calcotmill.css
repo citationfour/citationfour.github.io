@@ -11,12 +11,20 @@ h4{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.calcotmill1, .calcotmill2, .calcotmill3, .calcotmill4, .calcotmill5, .calcotmill6, .calcotmill7{
-    width: 100%;
-    border: 2px solid white;
-    margin: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
+.calcotmill1{
+    display: block;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.calcotmill2, .calcotmill3, .calcotmill4, .calcotmill5, .calcotmill6, .calcotmill7{
+    width: 30%;
+    position: relative;
+}
+
+.calcotmill2, .calcotmill5{
+    margin-left: 30px;
 }
 
 /*footers*/

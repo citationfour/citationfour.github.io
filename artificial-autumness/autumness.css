@@ -26,40 +26,16 @@ h4{
     font-size: 18px;
 }
 
-.autumness-1{
+.autumness-1, .autumness-2, .autumness-3, .autumness-5, .autumness-6{
     position: relative;
     top: 600px;
-    width: 100%;
+    width: 30%;
 }
 
-.autumness-2{
+.autumness-4, .autumness-5{
+    width: 30%;
     position: relative;
-    top: 650px;
-    width: 100%;
-}
-
-.autumness-3{
-    position: relative;
-    top: 700px;
-    width: 100%;
-}
-
-.autumness-4{
-    position: relative;
-    top: 740px;
-    width: 100%;
-}
-
-.autumness-5{
-    position: relative;
-    top: 800px;
-    width: 100%;
-}
-
-.autumness-6{
-    position: relative;
-    top: 855px;
-    width: 100%;
+    top: 260px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&display=swap');
